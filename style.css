@@ -1,0 +1,18 @@
+body {
+  background-color: lightblue;
+}
+div {
+  border: 150px solid black;
+  width: 250px;
+  height: 150px;
+}
+
+img {
+  width: 250px;
+  height: 150px;
+  object-fit: fill;
+}
+<div>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFMLGMz-uTWmYGsgf7wgdJ_CZjw51V3G5o9g&s">
+</div>
+    
